@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* Raw CSS */
+.progressbar {
+  width: 400px;
+  height: 7px;
+  background-color: rgb(245, 219, 219);
+  /* margin-bottom: 50px; */
+}
+
+.progressbar div {
+  width: 33.3%;
+  height: 100%;
+  background-color: rgb(95, 10, 232);
+}
