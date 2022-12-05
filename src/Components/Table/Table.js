@@ -61,8 +61,7 @@ const Table = () => {
                                     
                                     <tr key={info.id} >
 
-                                        <td>{info.attendance.status}</td>
-
+                                        <td>{info.name}</td>
                                         <td >{info.name}</td>
                                         <td >{info.name}</td>
 
